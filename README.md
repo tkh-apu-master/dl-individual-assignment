@@ -20,9 +20,9 @@ conda env list
 3. Isolate the Python environment of this project using [venv](https://python.land/virtual-environments/virtualenv). I have seperated and commit the configuration files.
 
 ```bash
-python -m venv capstone-project
-source capstone-project/bin/activate  # On MacOS/Linux
-capstone-project\Scripts\activate.bat  # On Windows
+python -m venv myenv
+source myenv/bin/activate  # On MacOS/Linux
+myenv\Scripts\activate.bat  # On Windows
 ```
 
 # Instructions
