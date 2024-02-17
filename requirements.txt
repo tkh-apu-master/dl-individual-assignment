@@ -245,3 +245,4 @@ yarl==1.9.2
 ydata-profiling==4.6.3
 yellowbrick @ file:///home/conda/feedstock_root/build_artifacts/yellowbrick_1661212213188/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1677313463193/work
+imblearn
